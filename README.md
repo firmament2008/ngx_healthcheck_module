@@ -9,6 +9,8 @@ Travis CI build details : [Click to see](https://travis-ci.org/zhouchangxun/ngx_
 > This module can provide NGINX with the capability of active back-end server health check (supports health check of both four and seven back-end servers).
 
 ![html status ouput](http://zhouchangxun.github.io/disk/img/check-html.png)
+<img width="701" height="476" alt="ngx-v1 29 4" src="https://github.com/user-attachments/assets/f78aab16-9614-4dde-b4b3-94f1be1078da" />
+
 
 Table of Contents
 =================
